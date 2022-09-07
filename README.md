@@ -1,3 +1,6 @@
+The Notebook contains links that don't operate on Github. It is recommended to view the project below:
+https://nbviewer.org/github/clozgil/Market-Segmentation-and-Consumer-Behavior/blob/main/Market-Segmentation-and-Consumer-Behavior.ipynb
+
 ## Introduction
 
 ### Executive Summary
